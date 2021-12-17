@@ -1,4 +1,4 @@
-module gitlab.accso.de/accso-ti/am/ecs-image-checker
+module github.com/hown3d/ecs-image-checker
 
 go 1.17
 
