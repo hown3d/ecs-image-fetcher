@@ -1,4 +1,4 @@
-module github.com/hown3d/ecs-image-checker
+module github.com/hown3d/ecs-image-fetcher
 
 go 1.17
 
